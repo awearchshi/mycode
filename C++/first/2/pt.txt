@@ -1,0 +1,14 @@
+class Time
+{
+	int a;
+	int b;
+}
+
+Time t,*p;
+p = &t;
+cout << p->a  ;
+
+
+
+// p->a,(*p).a,t.a
+这三者相同
