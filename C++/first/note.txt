@@ -1,0 +1,15 @@
+c++类
+class name
+{
+  int a;
+  float b;
+  ...
+  void aaaa() 结构体struct没有操作？
+  {
+   ...
+  }
+}
+name n1,n2;
+
+
+
