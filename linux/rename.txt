@@ -1,0 +1,14 @@
+rename
+
+mv - move (rename) files
+rename - Rename files
+
+$ rename foo foo0 foo?
+
+
+第一个参数：被替换掉的字符串
+第二个参数：替换成的字符串
+第三个参数：匹配要替换的文件模式
+
+
+
