@@ -1,3 +1,0 @@
-git add <file>
-git commit -m 'zhushi'
-git push -u origin master
